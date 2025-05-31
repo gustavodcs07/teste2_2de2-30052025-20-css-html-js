@@ -1,0 +1,13 @@
+label, input{
+    border-radius: 10px;
+}
+
+button:hover{
+    background-color: blue;
+    color: white;
+}
+
+.mensagem{
+    color: purple;
+    font-weight: bold;
+}
